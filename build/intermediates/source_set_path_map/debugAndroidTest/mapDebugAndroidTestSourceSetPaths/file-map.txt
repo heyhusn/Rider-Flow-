@@ -1,0 +1,5 @@
+com.example.rideflowappp.test.app-core-1.7.0-0 C:\Users\Husnain\.gradle\caches\8.11.1\transforms\0de12e6358b3b5cc061634f3fc757d00\transformed\core-1.7.0\res
+com.example.rideflowappp.test.app-androidTest-1 C:\Users\Husnain\Desktop\KotlinProjects\RideFlowAppp\app\build\generated\res\resValues\androidTest\debug
+com.example.rideflowappp.test.app-mergeDebugAndroidTestResources-2 C:\Users\Husnain\Desktop\KotlinProjects\RideFlowAppp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.rideflowappp.test.app-mergeDebugAndroidTestResources-3 C:\Users\Husnain\Desktop\KotlinProjects\RideFlowAppp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.rideflowappp.test.app-debugAndroidTest-4 C:\Users\Husnain\Desktop\KotlinProjects\RideFlowAppp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
