@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_desc">Reliable, Rides Right now</string>
+    <string name="app_name">Rider Flow ⚡</string>
+    <style name="Base.Theme.RideFlowAppp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.RideFlowAppp" parent="Base.Theme.RideFlowAppp"/>
+</resources>
