@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        val lottieView = findViewById<LottieAnimationView>(R.id.lottieView)
+        val lottieView = findViewById<LottieAnimationView>(R.id.lottieViewMainActivity)
         lottieView.playAnimation()
 
         val thread = Thread {

@@ -1,15 +1,15 @@
 [
     {
-        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\drawable_emailicon.png.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\drawable\\emailicon.png"
     },
     {
-        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\drawable_textbox.xml.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\drawable\\textbox.xml"
     },
     {
-        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\drawable_usaflag.png.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\drawable\\usaflag.png"
     },
     {
         "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -20,8 +20,12 @@
         "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.rideflowappp.app-debug-34:/layout_activity_main.xml.flat",
-        "source": "com.example.rideflowappp.app-main-36:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\font_poppinsbolditalic.ttf.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\font\\poppinsbolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\drawable_uk.png.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\drawable\\uk.png"
     },
     {
         "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -32,14 +36,6 @@
         "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\raw\\splashanim.json"
     },
     {
-        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\drawable\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\xml\\data_extraction_rules.xml"
-    },
-    {
         "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
@@ -48,16 +44,100 @@
         "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\drawable_custom_button.xml.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\drawable\\custom_button.xml"
+    },
+    {
         "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\drawable_splashbg.png.flat",
-        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\drawable\\splashbg.png"
-    },
-    {
         "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\xml_backup_rules.xml.flat",
         "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\font_poppinsmedium.ttf.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\font\\poppinsmedium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\layout_spinner_item.xml.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\drawable_indiaflag.jpg.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\drawable\\indiaflag.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\font_poppinslight.ttf.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\font\\poppinslight.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\font_poppinsitalic.ttf.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\font\\poppinsitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\layout_custom_spinner_item.xml.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\layout\\custom_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\font_poppinsblackitalic.ttf.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\font\\poppinsblackitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\font_poppinsbold.ttf.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\font\\poppinsbold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\drawable_pakistanflag.png.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\drawable\\pakistanflag.png"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\font_poppinsblack.ttf.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\font\\poppinsblack.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\font_poppinsthin.ttf.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\font\\poppinsthin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\drawable_password.png.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\drawable\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\drawable_screen2bg.png.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\drawable\\screen2bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\drawable_splashbg.png.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\drawable\\splashbg.png"
     },
     {
         "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\layout_activity_main.xml.flat",
@@ -68,19 +148,27 @@
         "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\layout\\activity_screen2.xml"
     },
     {
-        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\drawable_canada.png.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\drawable\\canada.png"
     },
     {
         "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\drawable_indiaflag.png.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\drawable\\indiaflag.png"
     },
     {
-        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.rideflowappp.app-debug-34:/drawable_screen2bg.png.flat",
+        "source": "com.example.rideflowappp.app-main-36:/drawable/screen2bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-debug-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Husnain\\.gradle\\daemon\\8.11.1\\com.example.rideflowappp.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
     }
 ]

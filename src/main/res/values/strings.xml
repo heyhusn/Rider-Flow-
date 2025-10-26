@@ -1,6 +1,15 @@
 <resources>
     <string name="app_name">Rider Flow ⚡</string>
-    <string name="app_desc">Reliable, Rides Right now</string>
-
+    <string name="app_desc">Reliable Rides, Right now</string>
+    <string name="create_your_account">Create Your Account</string>
+    <string name="enter_your_full_name">Enter Your Full Name</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="enter_your_password_again">Enter Your Password Again</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string-array name="user_types">
+        <item>Passenger</item>
+        <item>Rider</item>
+    </string-array>
 
 </resources>
