@@ -11,5 +11,6 @@
         <item>Passenger</item>
         <item>Rider</item>
     </string-array>
-
+    <string name="Login"><u>Login</u></string>
+    <string name="termsofservice"><u>Terms</u></string>
 </resources>

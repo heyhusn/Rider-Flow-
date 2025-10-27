@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
 
         val thread = Thread {
             try {
-                Thread.sleep(5000)
+                Thread.sleep(3000)
             } catch (e: InterruptedException) {
                 e.printStackTrace()
             } finally {

@@ -8,10 +8,7 @@ import android.widget.ArrayAdapter
 import android.widget.ImageView
 import android.widget.TextView
 
-class CountryCodeAdapter(
-    context: Context,
-    private val countries: List<Country>
-) : ArrayAdapter<Country>(context, 0, countries) {
+class CountryCodeAdapter(context: Context, private val countries: List<Country>) : ArrayAdapter<Country>(context, 0, countries) {
 
     override fun getView(position: Int, convertView: View?, parent: ViewGroup): View {
         // For the selected item (spinner closed), show only code
